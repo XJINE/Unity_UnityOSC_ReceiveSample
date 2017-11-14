@@ -1,4 +1,4 @@
-# Unity3D_UnityOSC_ReceiveSample
+# Unity_UnityOSC_ReceiveSample
 
 UnityOSC を使って OSC を受信するサンプルプロジェクトです。
 
